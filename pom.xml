@@ -28,6 +28,10 @@
     <wro4j.version>1.8.0</wro4j.version>
 
     <jacoco.version>0.8.2</jacoco.version>
+   <sonar.projectKey>Bujji120_spring-petclinic</sonar.projectKey>
+  <sonar.organization>bujji120</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+  <sonar.login>d46d71016661768b07fab0a5122c55a428ef7a7d</sonar.login>
 
   </properties>
 
